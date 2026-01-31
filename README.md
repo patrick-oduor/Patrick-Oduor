@@ -1,11 +1,11 @@
 
-# Hi, I'm Patrick Oduor | Full-Stack Product Engineer 🚀
+# Hi, I'm Patrick Oduor | Full-Stack Product Engineer 
 
 I specialize in architecting **high-performance ERP systems** and **automated growth engines**. My work focuses on bridging the gap between complex backend logic (Financial Forensics, RBAC, Automation) and premium, conversion-centric user experiences.
 
 ---
 
-## 🛠️ Featured Systems
+##  Featured Systems
 
 ### [Rental Management ERP](https://github.com/patrick-oduor/rental-management-system)
 **Enterprise-grade property management with a focus on financial integrity.**
@@ -21,12 +21,12 @@ I specialize in architecting **high-performance ERP systems** and **automated gr
 
 ---
 
-## 🏗️ Engineering Philosophy
+##  Engineering Philosophy
 I build with a **Product-First** mindset. Whether it's implementing rate-limiting to protect API costs or designing viral loops to lower customer acquisition costs (CAC), I ensure that every line of code serves a business objective.
 
 ---
 
-## ⚡ Tech Stack & Tools
+##  Tech Stack & Tools
 * **Languages:** JavaScript (ES6+), TypeScript
 * **Frameworks:** Next.js 15+ (App Router), React
 * **Backend:** Node.js, Mongoose, NextAuth.js
@@ -35,4 +35,4 @@ I build with a **Product-First** mindset. Whether it's implementing rate-limitin
 
 ---
 
-📫 **Let's build something elite:** [Email Me](mailto:o.patrick.ke@gmail.com)
+ **Let's build something elite:** [Email Me](mailto:o.patrick.ke@gmail.com)
