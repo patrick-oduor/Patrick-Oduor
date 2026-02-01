@@ -28,7 +28,7 @@ I build with a **Product-First** mindset. Whether it's implementing rate-limitin
 
 ##  Tech Stack & Tools
 * **Languages:** JavaScript (ES6+), TypeScript
-* **Frameworks:** Next.js 15+ (App Router), React
+* **Frameworks:** Next.js 15+ (App Router), React, React Native
 * **Backend:** Node.js, Mongoose, NextAuth.js
 * **Services:** Twilio (SMS Auth), SendGrid (Email API), M-Pesa (FinTech)
 * **Design:** Tailwind CSS, Framer Motion
