@@ -1,5 +1,5 @@
 
-# Hi, I'm Patrick Oduor | Full-Stack Product Engineer 
+# Hi, I'm Patrick Oduor | Full-Stack Software Engineer 
 
 I specialize in architecting **high-performance ERP systems** and **automated growth engines**. My work focuses on bridging the gap between complex backend logic (Financial Forensics, RBAC, Automation) and premium, conversion-centric user experiences.
 
